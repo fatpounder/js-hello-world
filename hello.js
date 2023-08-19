@@ -5,7 +5,10 @@ to the console (the panel on the right)
 */
 
 console.log("Hello, World!")
-
+console.log("5", "5")
+console.log("5")
+console.log(5+5)
+console.log("Quoth the raven \"Nevermore\"")
 
 /*  
 Next, PLAY! 
